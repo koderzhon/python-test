@@ -9,5 +9,7 @@ while True:
     money = int(data)
     cache = round(money / 56, 2)
     print("К выдаче", cache, "долларов")
+
+                                     
  
 print("Работа обменного пункта завершена")
